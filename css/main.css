@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6, p {
             transition: opacity 0.2s 1.6s ease-out;     
 }
 
-.menu-icon.demok {
+.menu-icon.jiji {
     opacity: 0;
 }
 
@@ -467,9 +467,9 @@ h1, h2, h3, h4, h5, h6, p {
             transition: opacity 0.2s 1.6s ease-out;
 }
 
-.home-title.demok h1,
-.home-title.demok h2,
-.home-title.demok a {
+.home-title.jiji h1,
+.home-title.jiji h2,
+.home-title.jiji a {
     opacity: 0;
 }
 
